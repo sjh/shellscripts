@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 # for i in `ls`
 for i in `find . -maxdepth 1 -type d`
